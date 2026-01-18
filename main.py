@@ -1,8 +1,8 @@
 import numpy as np
 from hawkes_statistical_tests import run_and_save_experiment
 
-M = 3
-n = 30
+M = 300
+n = 3000
 p = int((n)**(2/3))
 T = 20
 
